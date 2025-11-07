@@ -1,577 +1,289 @@
-﻿"Statistic Label","Year","Destination","Degree of Urbanisation","NUTS 2 Region","UNIT","VALUE"
-"Irish Resident","2017","All Destinations","Densely populated","Ireland","Number of nights spent","6441013"
-"Irish Resident","2017","All Destinations","Densely populated","Northern & Western","Number of nights spent","1223614"
-"Irish Resident","2017","All Destinations","Densely populated","Southern","Number of nights spent","870383"
-"Irish Resident","2017","All Destinations","Densely populated","Eastern & Midland","Number of nights spent","4347016"
-"Irish Resident","2017","All Destinations","Intermediate populated","Ireland","Number of nights spent","4996974"
-"Irish Resident","2017","All Destinations","Intermediate populated","Northern & Western","Number of nights spent","1801503"
-"Irish Resident","2017","All Destinations","Intermediate populated","Southern","Number of nights spent","2151402"
-"Irish Resident","2017","All Destinations","Intermediate populated","Eastern & Midland","Number of nights spent","1044069"
-"Irish Resident","2017","All Destinations","Thinly populated","Ireland","Number of nights spent","3296859"
-"Irish Resident","2017","All Destinations","Thinly populated","Northern & Western","Number of nights spent","1294290"
-"Irish Resident","2017","All Destinations","Thinly populated","Southern","Number of nights spent","1805358"
-"Irish Resident","2017","All Destinations","Thinly populated","Eastern & Midland","Number of nights spent","197211"
-"Irish Resident","2017","All Destinations","All degrees of urbanisation","Ireland","Number of nights spent","14734846"
-"Irish Resident","2017","All Destinations","All degrees of urbanisation","Northern & Western","Number of nights spent","4319407"
-"Irish Resident","2017","All Destinations","All degrees of urbanisation","Southern","Number of nights spent","4827143"
-"Irish Resident","2017","All Destinations","All degrees of urbanisation","Eastern & Midland","Number of nights spent","5588296"
-"Irish Resident","2017","Costal Destination","Densely populated","Ireland","Number of nights spent",""
-"Irish Resident","2017","Costal Destination","Densely populated","Northern & Western","Number of nights spent",""
-"Irish Resident","2017","Costal Destination","Densely populated","Southern","Number of nights spent",""
-"Irish Resident","2017","Costal Destination","Densely populated","Eastern & Midland","Number of nights spent",""
-"Irish Resident","2017","Costal Destination","Intermediate populated","Ireland","Number of nights spent",""
-"Irish Resident","2017","Costal Destination","Intermediate populated","Northern & Western","Number of nights spent",""
-"Irish Resident","2017","Costal Destination","Intermediate populated","Southern","Number of nights spent",""
-"Irish Resident","2017","Costal Destination","Intermediate populated","Eastern & Midland","Number of nights spent",""
-"Irish Resident","2017","Costal Destination","Thinly populated","Ireland","Number of nights spent",""
-"Irish Resident","2017","Costal Destination","Thinly populated","Northern & Western","Number of nights spent",""
-"Irish Resident","2017","Costal Destination","Thinly populated","Southern","Number of nights spent",""
-"Irish Resident","2017","Costal Destination","Thinly populated","Eastern & Midland","Number of nights spent",""
-"Irish Resident","2017","Costal Destination","All degrees of urbanisation","Ireland","Number of nights spent","9615620"
-"Irish Resident","2017","Costal Destination","All degrees of urbanisation","Northern & Western","Number of nights spent","3347467"
-"Irish Resident","2017","Costal Destination","All degrees of urbanisation","Southern","Number of nights spent","2514005"
-"Irish Resident","2017","Costal Destination","All degrees of urbanisation","Eastern & Midland","Number of nights spent","3754148"
-"Irish Resident","2017","Non-Costal Destination","Densely populated","Ireland","Number of nights spent",""
-"Irish Resident","2017","Non-Costal Destination","Densely populated","Northern & Western","Number of nights spent",""
-"Irish Resident","2017","Non-Costal Destination","Densely populated","Southern","Number of nights spent",""
-"Irish Resident","2017","Non-Costal Destination","Densely populated","Eastern & Midland","Number of nights spent",""
-"Irish Resident","2017","Non-Costal Destination","Intermediate populated","Ireland","Number of nights spent",""
-"Irish Resident","2017","Non-Costal Destination","Intermediate populated","Northern & Western","Number of nights spent",""
-"Irish Resident","2017","Non-Costal Destination","Intermediate populated","Southern","Number of nights spent",""
-"Irish Resident","2017","Non-Costal Destination","Intermediate populated","Eastern & Midland","Number of nights spent",""
-"Irish Resident","2017","Non-Costal Destination","Thinly populated","Ireland","Number of nights spent",""
-"Irish Resident","2017","Non-Costal Destination","Thinly populated","Northern & Western","Number of nights spent",""
-"Irish Resident","2017","Non-Costal Destination","Thinly populated","Southern","Number of nights spent",""
-"Irish Resident","2017","Non-Costal Destination","Thinly populated","Eastern & Midland","Number of nights spent",""
-"Irish Resident","2017","Non-Costal Destination","All degrees of urbanisation","Ireland","Number of nights spent","5119226"
-"Irish Resident","2017","Non-Costal Destination","All degrees of urbanisation","Northern & Western","Number of nights spent","971940"
-"Irish Resident","2017","Non-Costal Destination","All degrees of urbanisation","Southern","Number of nights spent","2313138"
-"Irish Resident","2017","Non-Costal Destination","All degrees of urbanisation","Eastern & Midland","Number of nights spent","1834148"
-"Irish Resident","2018","All Destinations","Densely populated","Ireland","Number of nights spent","7067025"
-"Irish Resident","2018","All Destinations","Densely populated","Northern & Western","Number of nights spent","1143745"
-"Irish Resident","2018","All Destinations","Densely populated","Southern","Number of nights spent","659267"
-"Irish Resident","2018","All Destinations","Densely populated","Eastern & Midland","Number of nights spent","5264013"
-"Irish Resident","2018","All Destinations","Intermediate populated","Ireland","Number of nights spent","5540861"
-"Irish Resident","2018","All Destinations","Intermediate populated","Northern & Western","Number of nights spent","1538423"
-"Irish Resident","2018","All Destinations","Intermediate populated","Southern","Number of nights spent","2878474"
-"Irish Resident","2018","All Destinations","Intermediate populated","Eastern & Midland","Number of nights spent","1123964"
-"Irish Resident","2018","All Destinations","Thinly populated","Ireland","Number of nights spent","5649952"
-"Irish Resident","2018","All Destinations","Thinly populated","Northern & Western","Number of nights spent","2182140"
-"Irish Resident","2018","All Destinations","Thinly populated","Southern","Number of nights spent","2460957"
-"Irish Resident","2018","All Destinations","Thinly populated","Eastern & Midland","Number of nights spent","1006855"
-"Irish Resident","2018","All Destinations","All degrees of urbanisation","Ireland","Number of nights spent","18257838"
-"Irish Resident","2018","All Destinations","All degrees of urbanisation","Northern & Western","Number of nights spent","4864308"
-"Irish Resident","2018","All Destinations","All degrees of urbanisation","Southern","Number of nights spent","5998698"
-"Irish Resident","2018","All Destinations","All degrees of urbanisation","Eastern & Midland","Number of nights spent","7394832"
-"Irish Resident","2018","Costal Destination","Densely populated","Ireland","Number of nights spent",""
-"Irish Resident","2018","Costal Destination","Densely populated","Northern & Western","Number of nights spent",""
-"Irish Resident","2018","Costal Destination","Densely populated","Southern","Number of nights spent",""
-"Irish Resident","2018","Costal Destination","Densely populated","Eastern & Midland","Number of nights spent",""
-"Irish Resident","2018","Costal Destination","Intermediate populated","Ireland","Number of nights spent",""
-"Irish Resident","2018","Costal Destination","Intermediate populated","Northern & Western","Number of nights spent",""
-"Irish Resident","2018","Costal Destination","Intermediate populated","Southern","Number of nights spent",""
-"Irish Resident","2018","Costal Destination","Intermediate populated","Eastern & Midland","Number of nights spent",""
-"Irish Resident","2018","Costal Destination","Thinly populated","Ireland","Number of nights spent",""
-"Irish Resident","2018","Costal Destination","Thinly populated","Northern & Western","Number of nights spent",""
-"Irish Resident","2018","Costal Destination","Thinly populated","Southern","Number of nights spent",""
-"Irish Resident","2018","Costal Destination","Thinly populated","Eastern & Midland","Number of nights spent",""
-"Irish Resident","2018","Costal Destination","All degrees of urbanisation","Ireland","Number of nights spent","9827911"
-"Irish Resident","2018","Costal Destination","All degrees of urbanisation","Northern & Western","Number of nights spent","3391395"
-"Irish Resident","2018","Costal Destination","All degrees of urbanisation","Southern","Number of nights spent","2641962"
-"Irish Resident","2018","Costal Destination","All degrees of urbanisation","Eastern & Midland","Number of nights spent","3794554"
-"Irish Resident","2018","Non-Costal Destination","Densely populated","Ireland","Number of nights spent",""
-"Irish Resident","2018","Non-Costal Destination","Densely populated","Northern & Western","Number of nights spent",""
-"Irish Resident","2018","Non-Costal Destination","Densely populated","Southern","Number of nights spent",""
-"Irish Resident","2018","Non-Costal Destination","Densely populated","Eastern & Midland","Number of nights spent",""
-"Irish Resident","2018","Non-Costal Destination","Intermediate populated","Ireland","Number of nights spent",""
-"Irish Resident","2018","Non-Costal Destination","Intermediate populated","Northern & Western","Number of nights spent",""
-"Irish Resident","2018","Non-Costal Destination","Intermediate populated","Southern","Number of nights spent",""
-"Irish Resident","2018","Non-Costal Destination","Intermediate populated","Eastern & Midland","Number of nights spent",""
-"Irish Resident","2018","Non-Costal Destination","Thinly populated","Ireland","Number of nights spent",""
-"Irish Resident","2018","Non-Costal Destination","Thinly populated","Northern & Western","Number of nights spent",""
-"Irish Resident","2018","Non-Costal Destination","Thinly populated","Southern","Number of nights spent",""
-"Irish Resident","2018","Non-Costal Destination","Thinly populated","Eastern & Midland","Number of nights spent",""
-"Irish Resident","2018","Non-Costal Destination","All degrees of urbanisation","Ireland","Number of nights spent","8429927"
-"Irish Resident","2018","Non-Costal Destination","All degrees of urbanisation","Northern & Western","Number of nights spent","1472913"
-"Irish Resident","2018","Non-Costal Destination","All degrees of urbanisation","Southern","Number of nights spent","3356736"
-"Irish Resident","2018","Non-Costal Destination","All degrees of urbanisation","Eastern & Midland","Number of nights spent","3600278"
-"Irish Resident","2019","All Destinations","Densely populated","Ireland","Number of nights spent","5620022"
-"Irish Resident","2019","All Destinations","Densely populated","Northern & Western","Number of nights spent","940674"
-"Irish Resident","2019","All Destinations","Densely populated","Southern","Number of nights spent","577350"
-"Irish Resident","2019","All Destinations","Densely populated","Eastern & Midland","Number of nights spent","4101998"
-"Irish Resident","2019","All Destinations","Intermediate populated","Ireland","Number of nights spent","5933729"
-"Irish Resident","2019","All Destinations","Intermediate populated","Northern & Western","Number of nights spent","1297001"
-"Irish Resident","2019","All Destinations","Intermediate populated","Southern","Number of nights spent","3325929"
-"Irish Resident","2019","All Destinations","Intermediate populated","Eastern & Midland","Number of nights spent","1310799"
-"Irish Resident","2019","All Destinations","Thinly populated","Ireland","Number of nights spent","4741784"
-"Irish Resident","2019","All Destinations","Thinly populated","Northern & Western","Number of nights spent","1857161"
-"Irish Resident","2019","All Destinations","Thinly populated","Southern","Number of nights spent","2054697"
-"Irish Resident","2019","All Destinations","Thinly populated","Eastern & Midland","Number of nights spent","829926"
-"Irish Resident","2019","All Destinations","All degrees of urbanisation","Ireland","Number of nights spent","16295535"
-"Irish Resident","2019","All Destinations","All degrees of urbanisation","Northern & Western","Number of nights spent","4094836"
-"Irish Resident","2019","All Destinations","All degrees of urbanisation","Southern","Number of nights spent","5957976"
-"Irish Resident","2019","All Destinations","All degrees of urbanisation","Eastern & Midland","Number of nights spent","6242723"
-"Irish Resident","2019","Costal Destination","Densely populated","Ireland","Number of nights spent",""
-"Irish Resident","2019","Costal Destination","Densely populated","Northern & Western","Number of nights spent",""
-"Irish Resident","2019","Costal Destination","Densely populated","Southern","Number of nights spent",""
-"Irish Resident","2019","Costal Destination","Densely populated","Eastern & Midland","Number of nights spent",""
-"Irish Resident","2019","Costal Destination","Intermediate populated","Ireland","Number of nights spent",""
-"Irish Resident","2019","Costal Destination","Intermediate populated","Northern & Western","Number of nights spent",""
-"Irish Resident","2019","Costal Destination","Intermediate populated","Southern","Number of nights spent",""
-"Irish Resident","2019","Costal Destination","Intermediate populated","Eastern & Midland","Number of nights spent",""
-"Irish Resident","2019","Costal Destination","Thinly populated","Ireland","Number of nights spent",""
-"Irish Resident","2019","Costal Destination","Thinly populated","Northern & Western","Number of nights spent",""
-"Irish Resident","2019","Costal Destination","Thinly populated","Southern","Number of nights spent",""
-"Irish Resident","2019","Costal Destination","Thinly populated","Eastern & Midland","Number of nights spent",""
-"Irish Resident","2019","Costal Destination","All degrees of urbanisation","Ireland","Number of nights spent","7891353"
-"Irish Resident","2019","Costal Destination","All degrees of urbanisation","Northern & Western","Number of nights spent","2926209"
-"Irish Resident","2019","Costal Destination","All degrees of urbanisation","Southern","Number of nights spent","2460715"
-"Irish Resident","2019","Costal Destination","All degrees of urbanisation","Eastern & Midland","Number of nights spent","2504429"
-"Irish Resident","2019","Non-Costal Destination","Densely populated","Ireland","Number of nights spent",""
-"Irish Resident","2019","Non-Costal Destination","Densely populated","Northern & Western","Number of nights spent",""
-"Irish Resident","2019","Non-Costal Destination","Densely populated","Southern","Number of nights spent",""
-"Irish Resident","2019","Non-Costal Destination","Densely populated","Eastern & Midland","Number of nights spent",""
-"Irish Resident","2019","Non-Costal Destination","Intermediate populated","Ireland","Number of nights spent",""
-"Irish Resident","2019","Non-Costal Destination","Intermediate populated","Northern & Western","Number of nights spent",""
-"Irish Resident","2019","Non-Costal Destination","Intermediate populated","Southern","Number of nights spent",""
-"Irish Resident","2019","Non-Costal Destination","Intermediate populated","Eastern & Midland","Number of nights spent",""
-"Irish Resident","2019","Non-Costal Destination","Thinly populated","Ireland","Number of nights spent",""
-"Irish Resident","2019","Non-Costal Destination","Thinly populated","Northern & Western","Number of nights spent",""
-"Irish Resident","2019","Non-Costal Destination","Thinly populated","Southern","Number of nights spent",""
-"Irish Resident","2019","Non-Costal Destination","Thinly populated","Eastern & Midland","Number of nights spent",""
-"Irish Resident","2019","Non-Costal Destination","All degrees of urbanisation","Ireland","Number of nights spent","8404182"
-"Irish Resident","2019","Non-Costal Destination","All degrees of urbanisation","Northern & Western","Number of nights spent","1168627"
-"Irish Resident","2019","Non-Costal Destination","All degrees of urbanisation","Southern","Number of nights spent","3497261"
-"Irish Resident","2019","Non-Costal Destination","All degrees of urbanisation","Eastern & Midland","Number of nights spent","3738294"
-"Irish Resident","2020","All Destinations","Densely populated","Ireland","Number of nights spent","2942251"
-"Irish Resident","2020","All Destinations","Densely populated","Northern & Western","Number of nights spent","895281"
-"Irish Resident","2020","All Destinations","Densely populated","Southern","Number of nights spent","1567564"
-"Irish Resident","2020","All Destinations","Densely populated","Eastern & Midland","Number of nights spent","479407"
-"Irish Resident","2020","All Destinations","Intermediate populated","Ireland","Number of nights spent","3444907"
-"Irish Resident","2020","All Destinations","Intermediate populated","Northern & Western","Number of nights spent","1048231"
-"Irish Resident","2020","All Destinations","Intermediate populated","Southern","Number of nights spent","1835367"
-"Irish Resident","2020","All Destinations","Intermediate populated","Eastern & Midland","Number of nights spent","561309"
-"Irish Resident","2020","All Destinations","Thinly populated","Ireland","Number of nights spent","5236842"
-"Irish Resident","2020","All Destinations","Thinly populated","Northern & Western","Number of nights spent","1593488"
-"Irish Resident","2020","All Destinations","Thinly populated","Southern","Number of nights spent","2790069"
-"Irish Resident","2020","All Destinations","Thinly populated","Eastern & Midland","Number of nights spent","853284"
-"Irish Resident","2020","All Destinations","All degrees of urbanisation","Ireland","Number of nights spent","11624000"
-"Irish Resident","2020","All Destinations","All degrees of urbanisation","Northern & Western","Number of nights spent","3537000"
-"Irish Resident","2020","All Destinations","All degrees of urbanisation","Southern","Number of nights spent","6193000"
-"Irish Resident","2020","All Destinations","All degrees of urbanisation","Eastern & Midland","Number of nights spent","1894000"
-"Irish Resident","2020","Costal Destination","Densely populated","Ireland","Number of nights spent",""
-"Irish Resident","2020","Costal Destination","Densely populated","Northern & Western","Number of nights spent",""
-"Irish Resident","2020","Costal Destination","Densely populated","Southern","Number of nights spent",""
-"Irish Resident","2020","Costal Destination","Densely populated","Eastern & Midland","Number of nights spent",""
-"Irish Resident","2020","Costal Destination","Intermediate populated","Ireland","Number of nights spent",""
-"Irish Resident","2020","Costal Destination","Intermediate populated","Northern & Western","Number of nights spent",""
-"Irish Resident","2020","Costal Destination","Intermediate populated","Southern","Number of nights spent",""
-"Irish Resident","2020","Costal Destination","Intermediate populated","Eastern & Midland","Number of nights spent",""
-"Irish Resident","2020","Costal Destination","Thinly populated","Ireland","Number of nights spent",""
-"Irish Resident","2020","Costal Destination","Thinly populated","Northern & Western","Number of nights spent",""
-"Irish Resident","2020","Costal Destination","Thinly populated","Southern","Number of nights spent",""
-"Irish Resident","2020","Costal Destination","Thinly populated","Eastern & Midland","Number of nights spent",""
-"Irish Resident","2020","Costal Destination","All degrees of urbanisation","Ireland","Number of nights spent","6408740"
-"Irish Resident","2020","Costal Destination","All degrees of urbanisation","Northern & Western","Number of nights spent","1950079"
-"Irish Resident","2020","Costal Destination","All degrees of urbanisation","Southern","Number of nights spent","3414429"
-"Irish Resident","2020","Costal Destination","All degrees of urbanisation","Eastern & Midland","Number of nights spent","1044232"
-"Irish Resident","2020","Non-Costal Destination","Densely populated","Ireland","Number of nights spent",""
-"Irish Resident","2020","Non-Costal Destination","Densely populated","Northern & Western","Number of nights spent",""
-"Irish Resident","2020","Non-Costal Destination","Densely populated","Southern","Number of nights spent",""
-"Irish Resident","2020","Non-Costal Destination","Densely populated","Eastern & Midland","Number of nights spent",""
-"Irish Resident","2020","Non-Costal Destination","Intermediate populated","Ireland","Number of nights spent",""
-"Irish Resident","2020","Non-Costal Destination","Intermediate populated","Northern & Western","Number of nights spent",""
-"Irish Resident","2020","Non-Costal Destination","Intermediate populated","Southern","Number of nights spent",""
-"Irish Resident","2020","Non-Costal Destination","Intermediate populated","Eastern & Midland","Number of nights spent",""
-"Irish Resident","2020","Non-Costal Destination","Thinly populated","Ireland","Number of nights spent",""
-"Irish Resident","2020","Non-Costal Destination","Thinly populated","Northern & Western","Number of nights spent",""
-"Irish Resident","2020","Non-Costal Destination","Thinly populated","Southern","Number of nights spent",""
-"Irish Resident","2020","Non-Costal Destination","Thinly populated","Eastern & Midland","Number of nights spent",""
-"Irish Resident","2020","Non-Costal Destination","All degrees of urbanisation","Ireland","Number of nights spent","5215260"
-"Irish Resident","2020","Non-Costal Destination","All degrees of urbanisation","Northern & Western","Number of nights spent","1586921"
-"Irish Resident","2020","Non-Costal Destination","All degrees of urbanisation","Southern","Number of nights spent","2778571"
-"Irish Resident","2020","Non-Costal Destination","All degrees of urbanisation","Eastern & Midland","Number of nights spent","849768"
-"Irish Resident","2021","All Destinations","Densely populated","Ireland","Number of nights spent","2312137"
-"Irish Resident","2021","All Destinations","Densely populated","Northern & Western","Number of nights spent","677450"
-"Irish Resident","2021","All Destinations","Densely populated","Southern","Number of nights spent","484132"
-"Irish Resident","2021","All Destinations","Densely populated","Eastern & Midland","Number of nights spent","1150555"
-"Irish Resident","2021","All Destinations","Intermediate populated","Ireland","Number of nights spent","4090654"
-"Irish Resident","2021","All Destinations","Intermediate populated","Northern & Western","Number of nights spent","934068"
-"Irish Resident","2021","All Destinations","Intermediate populated","Southern","Number of nights spent","2788924"
-"Irish Resident","2021","All Destinations","Intermediate populated","Eastern & Midland","Number of nights spent","367662"
-"Irish Resident","2021","All Destinations","Thinly populated","Ireland","Number of nights spent","3293209"
-"Irish Resident","2021","All Destinations","Thinly populated","Northern & Western","Number of nights spent","1337482"
-"Irish Resident","2021","All Destinations","Thinly populated","Southern","Number of nights spent","1722944"
-"Irish Resident","2021","All Destinations","Thinly populated","Eastern & Midland","Number of nights spent","232783"
-"Irish Resident","2021","All Destinations","All degrees of urbanisation","Ireland","Number of nights spent","9696000"
-"Irish Resident","2021","All Destinations","All degrees of urbanisation","Northern & Western","Number of nights spent","2949000"
-"Irish Resident","2021","All Destinations","All degrees of urbanisation","Southern","Number of nights spent","4996000"
-"Irish Resident","2021","All Destinations","All degrees of urbanisation","Eastern & Midland","Number of nights spent","1751000"
-"Irish Resident","2021","Costal Destination","Densely populated","Ireland","Number of nights spent",""
-"Irish Resident","2021","Costal Destination","Densely populated","Northern & Western","Number of nights spent",""
-"Irish Resident","2021","Costal Destination","Densely populated","Southern","Number of nights spent",""
-"Irish Resident","2021","Costal Destination","Densely populated","Eastern & Midland","Number of nights spent",""
-"Irish Resident","2021","Costal Destination","Intermediate populated","Ireland","Number of nights spent",""
-"Irish Resident","2021","Costal Destination","Intermediate populated","Northern & Western","Number of nights spent",""
-"Irish Resident","2021","Costal Destination","Intermediate populated","Southern","Number of nights spent",""
-"Irish Resident","2021","Costal Destination","Intermediate populated","Eastern & Midland","Number of nights spent",""
-"Irish Resident","2021","Costal Destination","Thinly populated","Ireland","Number of nights spent",""
-"Irish Resident","2021","Costal Destination","Thinly populated","Northern & Western","Number of nights spent",""
-"Irish Resident","2021","Costal Destination","Thinly populated","Southern","Number of nights spent",""
-"Irish Resident","2021","Costal Destination","Thinly populated","Eastern & Midland","Number of nights spent",""
-"Irish Resident","2021","Costal Destination","All degrees of urbanisation","Ireland","Number of nights spent","4873250"
-"Irish Resident","2021","Costal Destination","All degrees of urbanisation","Northern & Western","Number of nights spent","2107383"
-"Irish Resident","2021","Costal Destination","All degrees of urbanisation","Southern","Number of nights spent","2063408"
-"Irish Resident","2021","Costal Destination","All degrees of urbanisation","Eastern & Midland","Number of nights spent","702459"
-"Irish Resident","2021","Non-Costal Destination","Densely populated","Ireland","Number of nights spent",""
-"Irish Resident","2021","Non-Costal Destination","Densely populated","Northern & Western","Number of nights spent",""
-"Irish Resident","2021","Non-Costal Destination","Densely populated","Southern","Number of nights spent",""
-"Irish Resident","2021","Non-Costal Destination","Densely populated","Eastern & Midland","Number of nights spent",""
-"Irish Resident","2021","Non-Costal Destination","Intermediate populated","Ireland","Number of nights spent",""
-"Irish Resident","2021","Non-Costal Destination","Intermediate populated","Northern & Western","Number of nights spent",""
-"Irish Resident","2021","Non-Costal Destination","Intermediate populated","Southern","Number of nights spent",""
-"Irish Resident","2021","Non-Costal Destination","Intermediate populated","Eastern & Midland","Number of nights spent",""
-"Irish Resident","2021","Non-Costal Destination","Thinly populated","Ireland","Number of nights spent",""
-"Irish Resident","2021","Non-Costal Destination","Thinly populated","Northern & Western","Number of nights spent",""
-"Irish Resident","2021","Non-Costal Destination","Thinly populated","Southern","Number of nights spent",""
-"Irish Resident","2021","Non-Costal Destination","Thinly populated","Eastern & Midland","Number of nights spent",""
-"Irish Resident","2021","Non-Costal Destination","All degrees of urbanisation","Ireland","Number of nights spent","4822750"
-"Irish Resident","2021","Non-Costal Destination","All degrees of urbanisation","Northern & Western","Number of nights spent","841617"
-"Irish Resident","2021","Non-Costal Destination","All degrees of urbanisation","Southern","Number of nights spent","2932592"
-"Irish Resident","2021","Non-Costal Destination","All degrees of urbanisation","Eastern & Midland","Number of nights spent","1048541"
-"Irish Resident","2022","All Destinations","Densely populated","Ireland","Number of nights spent","4149806"
-"Irish Resident","2022","All Destinations","Densely populated","Northern & Western","Number of nights spent","1071827"
-"Irish Resident","2022","All Destinations","Densely populated","Southern","Number of nights spent","1822885"
-"Irish Resident","2022","All Destinations","Densely populated","Eastern & Midland","Number of nights spent","1255094"
-"Irish Resident","2022","All Destinations","Intermediate populated","Ireland","Number of nights spent","1797186"
-"Irish Resident","2022","All Destinations","Intermediate populated","Northern & Western","Number of nights spent","0"
-"Irish Resident","2022","All Destinations","Intermediate populated","Southern","Number of nights spent","331405"
-"Irish Resident","2022","All Destinations","Intermediate populated","Eastern & Midland","Number of nights spent","1465781"
-"Irish Resident","2022","All Destinations","Thinly populated","Ireland","Number of nights spent","12509008"
-"Irish Resident","2022","All Destinations","Thinly populated","Northern & Western","Number of nights spent","4224173"
-"Irish Resident","2022","All Destinations","Thinly populated","Southern","Number of nights spent","6905710"
-"Irish Resident","2022","All Destinations","Thinly populated","Eastern & Midland","Number of nights spent","1379125"
-"Irish Resident","2022","All Destinations","All degrees of urbanisation","Ireland","Number of nights spent","18456000"
-"Irish Resident","2022","All Destinations","All degrees of urbanisation","Northern & Western","Number of nights spent","5296000"
-"Irish Resident","2022","All Destinations","All degrees of urbanisation","Southern","Number of nights spent","9060000"
-"Irish Resident","2022","All Destinations","All degrees of urbanisation","Eastern & Midland","Number of nights spent","4100000"
-"Irish Resident","2022","Costal Destination","Densely populated","Ireland","Number of nights spent",""
-"Irish Resident","2022","Costal Destination","Densely populated","Northern & Western","Number of nights spent",""
-"Irish Resident","2022","Costal Destination","Densely populated","Southern","Number of nights spent",""
-"Irish Resident","2022","Costal Destination","Densely populated","Eastern & Midland","Number of nights spent",""
-"Irish Resident","2022","Costal Destination","Intermediate populated","Ireland","Number of nights spent",""
-"Irish Resident","2022","Costal Destination","Intermediate populated","Northern & Western","Number of nights spent",""
-"Irish Resident","2022","Costal Destination","Intermediate populated","Southern","Number of nights spent",""
-"Irish Resident","2022","Costal Destination","Intermediate populated","Eastern & Midland","Number of nights spent",""
-"Irish Resident","2022","Costal Destination","Thinly populated","Ireland","Number of nights spent",""
-"Irish Resident","2022","Costal Destination","Thinly populated","Northern & Western","Number of nights spent",""
-"Irish Resident","2022","Costal Destination","Thinly populated","Southern","Number of nights spent",""
-"Irish Resident","2022","Costal Destination","Thinly populated","Eastern & Midland","Number of nights spent",""
-"Irish Resident","2022","Costal Destination","All degrees of urbanisation","Ireland","Number of nights spent","13734245"
-"Irish Resident","2022","Costal Destination","All degrees of urbanisation","Northern & Western","Number of nights spent","4329671"
-"Irish Resident","2022","Costal Destination","All degrees of urbanisation","Southern","Number of nights spent","6914142"
-"Irish Resident","2022","Costal Destination","All degrees of urbanisation","Eastern & Midland","Number of nights spent","2490433"
-"Irish Resident","2022","Non-Costal Destination","Densely populated","Ireland","Number of nights spent",""
-"Irish Resident","2022","Non-Costal Destination","Densely populated","Northern & Western","Number of nights spent",""
-"Irish Resident","2022","Non-Costal Destination","Densely populated","Southern","Number of nights spent",""
-"Irish Resident","2022","Non-Costal Destination","Densely populated","Eastern & Midland","Number of nights spent",""
-"Irish Resident","2022","Non-Costal Destination","Intermediate populated","Ireland","Number of nights spent",""
-"Irish Resident","2022","Non-Costal Destination","Intermediate populated","Northern & Western","Number of nights spent",""
-"Irish Resident","2022","Non-Costal Destination","Intermediate populated","Southern","Number of nights spent",""
-"Irish Resident","2022","Non-Costal Destination","Intermediate populated","Eastern & Midland","Number of nights spent",""
-"Irish Resident","2022","Non-Costal Destination","Thinly populated","Ireland","Number of nights spent",""
-"Irish Resident","2022","Non-Costal Destination","Thinly populated","Northern & Western","Number of nights spent",""
-"Irish Resident","2022","Non-Costal Destination","Thinly populated","Southern","Number of nights spent",""
-"Irish Resident","2022","Non-Costal Destination","Thinly populated","Eastern & Midland","Number of nights spent",""
-"Irish Resident","2022","Non-Costal Destination","All degrees of urbanisation","Ireland","Number of nights spent","4721755"
-"Irish Resident","2022","Non-Costal Destination","All degrees of urbanisation","Northern & Western","Number of nights spent","966329"
-"Irish Resident","2022","Non-Costal Destination","All degrees of urbanisation","Southern","Number of nights spent","2145858"
-"Irish Resident","2022","Non-Costal Destination","All degrees of urbanisation","Eastern & Midland","Number of nights spent","1609567"
-"Non-Irish Resident","2017","All Destinations","Densely populated","Ireland","Number of nights spent","9262593"
-"Non-Irish Resident","2017","All Destinations","Densely populated","Northern & Western","Number of nights spent","802137"
-"Non-Irish Resident","2017","All Destinations","Densely populated","Southern","Number of nights spent","584136"
-"Non-Irish Resident","2017","All Destinations","Densely populated","Eastern & Midland","Number of nights spent","7876320"
-"Non-Irish Resident","2017","All Destinations","Intermediate populated","Ireland","Number of nights spent","3334401"
-"Non-Irish Resident","2017","All Destinations","Intermediate populated","Northern & Western","Number of nights spent","634767"
-"Non-Irish Resident","2017","All Destinations","Intermediate populated","Southern","Number of nights spent","1982884"
-"Non-Irish Resident","2017","All Destinations","Intermediate populated","Eastern & Midland","Number of nights spent","716750"
-"Non-Irish Resident","2017","All Destinations","Thinly populated","Ireland","Number of nights spent","3797139"
-"Non-Irish Resident","2017","All Destinations","Thinly populated","Northern & Western","Number of nights spent","1680333"
-"Non-Irish Resident","2017","All Destinations","Thinly populated","Southern","Number of nights spent","1966405"
-"Non-Irish Resident","2017","All Destinations","Thinly populated","Eastern & Midland","Number of nights spent","150401"
-"Non-Irish Resident","2017","All Destinations","All degrees of urbanisation","Ireland","Number of nights spent","16394133"
-"Non-Irish Resident","2017","All Destinations","All degrees of urbanisation","Northern & Western","Number of nights spent","3117237"
-"Non-Irish Resident","2017","All Destinations","All degrees of urbanisation","Southern","Number of nights spent","4533425"
-"Non-Irish Resident","2017","All Destinations","All degrees of urbanisation","Eastern & Midland","Number of nights spent","8743471"
-"Non-Irish Resident","2017","Costal Destination","Densely populated","Ireland","Number of nights spent",""
-"Non-Irish Resident","2017","Costal Destination","Densely populated","Northern & Western","Number of nights spent",""
-"Non-Irish Resident","2017","Costal Destination","Densely populated","Southern","Number of nights spent",""
-"Non-Irish Resident","2017","Costal Destination","Densely populated","Eastern & Midland","Number of nights spent",""
-"Non-Irish Resident","2017","Costal Destination","Intermediate populated","Ireland","Number of nights spent",""
-"Non-Irish Resident","2017","Costal Destination","Intermediate populated","Northern & Western","Number of nights spent",""
-"Non-Irish Resident","2017","Costal Destination","Intermediate populated","Southern","Number of nights spent",""
-"Non-Irish Resident","2017","Costal Destination","Intermediate populated","Eastern & Midland","Number of nights spent",""
-"Non-Irish Resident","2017","Costal Destination","Thinly populated","Ireland","Number of nights spent",""
-"Non-Irish Resident","2017","Costal Destination","Thinly populated","Northern & Western","Number of nights spent",""
-"Non-Irish Resident","2017","Costal Destination","Thinly populated","Southern","Number of nights spent",""
-"Non-Irish Resident","2017","Costal Destination","Thinly populated","Eastern & Midland","Number of nights spent",""
-"Non-Irish Resident","2017","Costal Destination","All degrees of urbanisation","Ireland","Number of nights spent","11374258"
-"Non-Irish Resident","2017","Costal Destination","All degrees of urbanisation","Northern & Western","Number of nights spent","2722403"
-"Non-Irish Resident","2017","Costal Destination","All degrees of urbanisation","Southern","Number of nights spent","2024917"
-"Non-Irish Resident","2017","Costal Destination","All degrees of urbanisation","Eastern & Midland","Number of nights spent","6626938"
-"Non-Irish Resident","2017","Non-Costal Destination","Densely populated","Ireland","Number of nights spent",""
-"Non-Irish Resident","2017","Non-Costal Destination","Densely populated","Northern & Western","Number of nights spent",""
-"Non-Irish Resident","2017","Non-Costal Destination","Densely populated","Southern","Number of nights spent",""
-"Non-Irish Resident","2017","Non-Costal Destination","Densely populated","Eastern & Midland","Number of nights spent",""
-"Non-Irish Resident","2017","Non-Costal Destination","Intermediate populated","Ireland","Number of nights spent",""
-"Non-Irish Resident","2017","Non-Costal Destination","Intermediate populated","Northern & Western","Number of nights spent",""
-"Non-Irish Resident","2017","Non-Costal Destination","Intermediate populated","Southern","Number of nights spent",""
-"Non-Irish Resident","2017","Non-Costal Destination","Intermediate populated","Eastern & Midland","Number of nights spent",""
-"Non-Irish Resident","2017","Non-Costal Destination","Thinly populated","Ireland","Number of nights spent",""
-"Non-Irish Resident","2017","Non-Costal Destination","Thinly populated","Northern & Western","Number of nights spent",""
-"Non-Irish Resident","2017","Non-Costal Destination","Thinly populated","Southern","Number of nights spent",""
-"Non-Irish Resident","2017","Non-Costal Destination","Thinly populated","Eastern & Midland","Number of nights spent",""
-"Non-Irish Resident","2017","Non-Costal Destination","All degrees of urbanisation","Ireland","Number of nights spent","5019875"
-"Non-Irish Resident","2017","Non-Costal Destination","All degrees of urbanisation","Northern & Western","Number of nights spent","394834"
-"Non-Irish Resident","2017","Non-Costal Destination","All degrees of urbanisation","Southern","Number of nights spent","2508508"
-"Non-Irish Resident","2017","Non-Costal Destination","All degrees of urbanisation","Eastern & Midland","Number of nights spent","2116533"
-"Non-Irish Resident","2018","All Destinations","Densely populated","Ireland","Number of nights spent","9491637"
-"Non-Irish Resident","2018","All Destinations","Densely populated","Northern & Western","Number of nights spent","924820"
-"Non-Irish Resident","2018","All Destinations","Densely populated","Southern","Number of nights spent","784235"
-"Non-Irish Resident","2018","All Destinations","Densely populated","Eastern & Midland","Number of nights spent","7782582"
-"Non-Irish Resident","2018","All Destinations","Intermediate populated","Ireland","Number of nights spent","3280654"
-"Non-Irish Resident","2018","All Destinations","Intermediate populated","Northern & Western","Number of nights spent","937621"
-"Non-Irish Resident","2018","All Destinations","Intermediate populated","Southern","Number of nights spent","1630490"
-"Non-Irish Resident","2018","All Destinations","Intermediate populated","Eastern & Midland","Number of nights spent","712543"
-"Non-Irish Resident","2018","All Destinations","Thinly populated","Ireland","Number of nights spent","4041216"
-"Non-Irish Resident","2018","All Destinations","Thinly populated","Northern & Western","Number of nights spent","1926015"
-"Non-Irish Resident","2018","All Destinations","Thinly populated","Southern","Number of nights spent","1690084"
-"Non-Irish Resident","2018","All Destinations","Thinly populated","Eastern & Midland","Number of nights spent","425117"
-"Non-Irish Resident","2018","All Destinations","All degrees of urbanisation","Ireland","Number of nights spent","16813507"
-"Non-Irish Resident","2018","All Destinations","All degrees of urbanisation","Northern & Western","Number of nights spent","3788456"
-"Non-Irish Resident","2018","All Destinations","All degrees of urbanisation","Southern","Number of nights spent","4104809"
-"Non-Irish Resident","2018","All Destinations","All degrees of urbanisation","Eastern & Midland","Number of nights spent","8920242"
-"Non-Irish Resident","2018","Costal Destination","Densely populated","Ireland","Number of nights spent",""
-"Non-Irish Resident","2018","Costal Destination","Densely populated","Northern & Western","Number of nights spent",""
-"Non-Irish Resident","2018","Costal Destination","Densely populated","Southern","Number of nights spent",""
-"Non-Irish Resident","2018","Costal Destination","Densely populated","Eastern & Midland","Number of nights spent",""
-"Non-Irish Resident","2018","Costal Destination","Intermediate populated","Ireland","Number of nights spent",""
-"Non-Irish Resident","2018","Costal Destination","Intermediate populated","Northern & Western","Number of nights spent",""
-"Non-Irish Resident","2018","Costal Destination","Intermediate populated","Southern","Number of nights spent",""
-"Non-Irish Resident","2018","Costal Destination","Intermediate populated","Eastern & Midland","Number of nights spent",""
-"Non-Irish Resident","2018","Costal Destination","Thinly populated","Ireland","Number of nights spent",""
-"Non-Irish Resident","2018","Costal Destination","Thinly populated","Northern & Western","Number of nights spent",""
-"Non-Irish Resident","2018","Costal Destination","Thinly populated","Southern","Number of nights spent",""
-"Non-Irish Resident","2018","Costal Destination","Thinly populated","Eastern & Midland","Number of nights spent",""
-"Non-Irish Resident","2018","Costal Destination","All degrees of urbanisation","Ireland","Number of nights spent","12102109"
-"Non-Irish Resident","2018","Costal Destination","All degrees of urbanisation","Northern & Western","Number of nights spent","2740098"
-"Non-Irish Resident","2018","Costal Destination","All degrees of urbanisation","Southern","Number of nights spent","1936115"
-"Non-Irish Resident","2018","Costal Destination","All degrees of urbanisation","Eastern & Midland","Number of nights spent","7425896"
-"Non-Irish Resident","2018","Non-Costal Destination","Densely populated","Ireland","Number of nights spent",""
-"Non-Irish Resident","2018","Non-Costal Destination","Densely populated","Northern & Western","Number of nights spent",""
-"Non-Irish Resident","2018","Non-Costal Destination","Densely populated","Southern","Number of nights spent",""
-"Non-Irish Resident","2018","Non-Costal Destination","Densely populated","Eastern & Midland","Number of nights spent",""
-"Non-Irish Resident","2018","Non-Costal Destination","Intermediate populated","Ireland","Number of nights spent",""
-"Non-Irish Resident","2018","Non-Costal Destination","Intermediate populated","Northern & Western","Number of nights spent",""
-"Non-Irish Resident","2018","Non-Costal Destination","Intermediate populated","Southern","Number of nights spent",""
-"Non-Irish Resident","2018","Non-Costal Destination","Intermediate populated","Eastern & Midland","Number of nights spent",""
-"Non-Irish Resident","2018","Non-Costal Destination","Thinly populated","Ireland","Number of nights spent",""
-"Non-Irish Resident","2018","Non-Costal Destination","Thinly populated","Northern & Western","Number of nights spent",""
-"Non-Irish Resident","2018","Non-Costal Destination","Thinly populated","Southern","Number of nights spent",""
-"Non-Irish Resident","2018","Non-Costal Destination","Thinly populated","Eastern & Midland","Number of nights spent",""
-"Non-Irish Resident","2018","Non-Costal Destination","All degrees of urbanisation","Ireland","Number of nights spent","4711398"
-"Non-Irish Resident","2018","Non-Costal Destination","All degrees of urbanisation","Northern & Western","Number of nights spent","1048358"
-"Non-Irish Resident","2018","Non-Costal Destination","All degrees of urbanisation","Southern","Number of nights spent","2168694"
-"Non-Irish Resident","2018","Non-Costal Destination","All degrees of urbanisation","Eastern & Midland","Number of nights spent","1494346"
-"Non-Irish Resident","2019","All Destinations","Densely populated","Ireland","Number of nights spent","10171295"
-"Non-Irish Resident","2019","All Destinations","Densely populated","Northern & Western","Number of nights spent","734934"
-"Non-Irish Resident","2019","All Destinations","Densely populated","Southern","Number of nights spent","877936"
-"Non-Irish Resident","2019","All Destinations","Densely populated","Eastern & Midland","Number of nights spent","8558425"
-"Non-Irish Resident","2019","All Destinations","Intermediate populated","Ireland","Number of nights spent","2277314"
-"Non-Irish Resident","2019","All Destinations","Intermediate populated","Northern & Western","Number of nights spent","943924"
-"Non-Irish Resident","2019","All Destinations","Intermediate populated","Southern","Number of nights spent","834715"
-"Non-Irish Resident","2019","All Destinations","Intermediate populated","Eastern & Midland","Number of nights spent","498675"
-"Non-Irish Resident","2019","All Destinations","Thinly populated","Ireland","Number of nights spent","3836650"
-"Non-Irish Resident","2019","All Destinations","Thinly populated","Northern & Western","Number of nights spent","2234489"
-"Non-Irish Resident","2019","All Destinations","Thinly populated","Southern","Number of nights spent","1248382"
-"Non-Irish Resident","2019","All Destinations","Thinly populated","Eastern & Midland","Number of nights spent","353779"
-"Non-Irish Resident","2019","All Destinations","All degrees of urbanisation","Ireland","Number of nights spent","16285259"
-"Non-Irish Resident","2019","All Destinations","All degrees of urbanisation","Northern & Western","Number of nights spent","3913347"
-"Non-Irish Resident","2019","All Destinations","All degrees of urbanisation","Southern","Number of nights spent","2961033"
-"Non-Irish Resident","2019","All Destinations","All degrees of urbanisation","Eastern & Midland","Number of nights spent","9410879"
-"Non-Irish Resident","2019","Costal Destination","Densely populated","Ireland","Number of nights spent",""
-"Non-Irish Resident","2019","Costal Destination","Densely populated","Northern & Western","Number of nights spent",""
-"Non-Irish Resident","2019","Costal Destination","Densely populated","Southern","Number of nights spent",""
-"Non-Irish Resident","2019","Costal Destination","Densely populated","Eastern & Midland","Number of nights spent",""
-"Non-Irish Resident","2019","Costal Destination","Intermediate populated","Ireland","Number of nights spent",""
-"Non-Irish Resident","2019","Costal Destination","Intermediate populated","Northern & Western","Number of nights spent",""
-"Non-Irish Resident","2019","Costal Destination","Intermediate populated","Southern","Number of nights spent",""
-"Non-Irish Resident","2019","Costal Destination","Intermediate populated","Eastern & Midland","Number of nights spent",""
-"Non-Irish Resident","2019","Costal Destination","Thinly populated","Ireland","Number of nights spent",""
-"Non-Irish Resident","2019","Costal Destination","Thinly populated","Northern & Western","Number of nights spent",""
-"Non-Irish Resident","2019","Costal Destination","Thinly populated","Southern","Number of nights spent",""
-"Non-Irish Resident","2019","Costal Destination","Thinly populated","Eastern & Midland","Number of nights spent",""
-"Non-Irish Resident","2019","Costal Destination","All degrees of urbanisation","Ireland","Number of nights spent","12242193"
-"Non-Irish Resident","2019","Costal Destination","All degrees of urbanisation","Northern & Western","Number of nights spent","2997003"
-"Non-Irish Resident","2019","Costal Destination","All degrees of urbanisation","Southern","Number of nights spent","1276947"
-"Non-Irish Resident","2019","Costal Destination","All degrees of urbanisation","Eastern & Midland","Number of nights spent","7968243"
-"Non-Irish Resident","2019","Non-Costal Destination","Densely populated","Ireland","Number of nights spent",""
-"Non-Irish Resident","2019","Non-Costal Destination","Densely populated","Northern & Western","Number of nights spent",""
-"Non-Irish Resident","2019","Non-Costal Destination","Densely populated","Southern","Number of nights spent",""
-"Non-Irish Resident","2019","Non-Costal Destination","Densely populated","Eastern & Midland","Number of nights spent",""
-"Non-Irish Resident","2019","Non-Costal Destination","Intermediate populated","Ireland","Number of nights spent",""
-"Non-Irish Resident","2019","Non-Costal Destination","Intermediate populated","Northern & Western","Number of nights spent",""
-"Non-Irish Resident","2019","Non-Costal Destination","Intermediate populated","Southern","Number of nights spent",""
-"Non-Irish Resident","2019","Non-Costal Destination","Intermediate populated","Eastern & Midland","Number of nights spent",""
-"Non-Irish Resident","2019","Non-Costal Destination","Thinly populated","Ireland","Number of nights spent",""
-"Non-Irish Resident","2019","Non-Costal Destination","Thinly populated","Northern & Western","Number of nights spent",""
-"Non-Irish Resident","2019","Non-Costal Destination","Thinly populated","Southern","Number of nights spent",""
-"Non-Irish Resident","2019","Non-Costal Destination","Thinly populated","Eastern & Midland","Number of nights spent",""
-"Non-Irish Resident","2019","Non-Costal Destination","All degrees of urbanisation","Ireland","Number of nights spent","4043066"
-"Non-Irish Resident","2019","Non-Costal Destination","All degrees of urbanisation","Northern & Western","Number of nights spent","916344"
-"Non-Irish Resident","2019","Non-Costal Destination","All degrees of urbanisation","Southern","Number of nights spent","1684086"
-"Non-Irish Resident","2019","Non-Costal Destination","All degrees of urbanisation","Eastern & Midland","Number of nights spent","1442636"
-"Non-Irish Resident","2020","All Destinations","Densely populated","Ireland","Number of nights spent","1842944"
-"Non-Irish Resident","2020","All Destinations","Densely populated","Northern & Western","Number of nights spent","560779"
-"Non-Irish Resident","2020","All Destinations","Densely populated","Southern","Number of nights spent","981878"
-"Non-Irish Resident","2020","All Destinations","Densely populated","Eastern & Midland","Number of nights spent","300287"
-"Non-Irish Resident","2020","All Destinations","Intermediate populated","Ireland","Number of nights spent","516112"
-"Non-Irish Resident","2020","All Destinations","Intermediate populated","Northern & Western","Number of nights spent","157045"
-"Non-Irish Resident","2020","All Destinations","Intermediate populated","Southern","Number of nights spent","274973"
-"Non-Irish Resident","2020","All Destinations","Intermediate populated","Eastern & Midland","Number of nights spent","84095"
-"Non-Irish Resident","2020","All Destinations","Thinly populated","Ireland","Number of nights spent","2157198"
-"Non-Irish Resident","2020","All Destinations","Thinly populated","Northern & Western","Number of nights spent","656401"
-"Non-Irish Resident","2020","All Destinations","Thinly populated","Southern","Number of nights spent","1149305"
-"Non-Irish Resident","2020","All Destinations","Thinly populated","Eastern & Midland","Number of nights spent","351491"
-"Non-Irish Resident","2020","All Destinations","All degrees of urbanisation","Ireland","Number of nights spent","4516254"
-"Non-Irish Resident","2020","All Destinations","All degrees of urbanisation","Northern & Western","Number of nights spent","1374225"
-"Non-Irish Resident","2020","All Destinations","All degrees of urbanisation","Southern","Number of nights spent","2406156"
-"Non-Irish Resident","2020","All Destinations","All degrees of urbanisation","Eastern & Midland","Number of nights spent","735873"
-"Non-Irish Resident","2020","Costal Destination","Densely populated","Ireland","Number of nights spent",""
-"Non-Irish Resident","2020","Costal Destination","Densely populated","Northern & Western","Number of nights spent",""
-"Non-Irish Resident","2020","Costal Destination","Densely populated","Southern","Number of nights spent",""
-"Non-Irish Resident","2020","Costal Destination","Densely populated","Eastern & Midland","Number of nights spent",""
-"Non-Irish Resident","2020","Costal Destination","Intermediate populated","Ireland","Number of nights spent",""
-"Non-Irish Resident","2020","Costal Destination","Intermediate populated","Northern & Western","Number of nights spent",""
-"Non-Irish Resident","2020","Costal Destination","Intermediate populated","Southern","Number of nights spent",""
-"Non-Irish Resident","2020","Costal Destination","Intermediate populated","Eastern & Midland","Number of nights spent",""
-"Non-Irish Resident","2020","Costal Destination","Thinly populated","Ireland","Number of nights spent",""
-"Non-Irish Resident","2020","Costal Destination","Thinly populated","Northern & Western","Number of nights spent",""
-"Non-Irish Resident","2020","Costal Destination","Thinly populated","Southern","Number of nights spent",""
-"Non-Irish Resident","2020","Costal Destination","Thinly populated","Eastern & Midland","Number of nights spent",""
-"Non-Irish Resident","2020","Costal Destination","All degrees of urbanisation","Ireland","Number of nights spent","3352755"
-"Non-Irish Resident","2020","Costal Destination","All degrees of urbanisation","Northern & Western","Number of nights spent","1020191"
-"Non-Irish Resident","2020","Costal Destination","All degrees of urbanisation","Southern","Number of nights spent","1786271"
-"Non-Irish Resident","2020","Costal Destination","All degrees of urbanisation","Eastern & Midland","Number of nights spent","546294"
-"Non-Irish Resident","2020","Non-Costal Destination","Densely populated","Ireland","Number of nights spent",""
-"Non-Irish Resident","2020","Non-Costal Destination","Densely populated","Northern & Western","Number of nights spent",""
-"Non-Irish Resident","2020","Non-Costal Destination","Densely populated","Southern","Number of nights spent",""
-"Non-Irish Resident","2020","Non-Costal Destination","Densely populated","Eastern & Midland","Number of nights spent",""
-"Non-Irish Resident","2020","Non-Costal Destination","Intermediate populated","Ireland","Number of nights spent",""
-"Non-Irish Resident","2020","Non-Costal Destination","Intermediate populated","Northern & Western","Number of nights spent",""
-"Non-Irish Resident","2020","Non-Costal Destination","Intermediate populated","Southern","Number of nights spent",""
-"Non-Irish Resident","2020","Non-Costal Destination","Intermediate populated","Eastern & Midland","Number of nights spent",""
-"Non-Irish Resident","2020","Non-Costal Destination","Thinly populated","Ireland","Number of nights spent",""
-"Non-Irish Resident","2020","Non-Costal Destination","Thinly populated","Northern & Western","Number of nights spent",""
-"Non-Irish Resident","2020","Non-Costal Destination","Thinly populated","Southern","Number of nights spent",""
-"Non-Irish Resident","2020","Non-Costal Destination","Thinly populated","Eastern & Midland","Number of nights spent",""
-"Non-Irish Resident","2020","Non-Costal Destination","All degrees of urbanisation","Ireland","Number of nights spent","1163499"
-"Non-Irish Resident","2020","Non-Costal Destination","All degrees of urbanisation","Northern & Western","Number of nights spent","354034"
-"Non-Irish Resident","2020","Non-Costal Destination","All degrees of urbanisation","Southern","Number of nights spent","619885"
-"Non-Irish Resident","2020","Non-Costal Destination","All degrees of urbanisation","Eastern & Midland","Number of nights spent","189579"
-"Non-Irish Resident","2021","All Destinations","Densely populated","Ireland","Number of nights spent","2319295"
-"Non-Irish Resident","2021","All Destinations","Densely populated","Northern & Western","Number of nights spent","204980"
-"Non-Irish Resident","2021","All Destinations","Densely populated","Southern","Number of nights spent","422817"
-"Non-Irish Resident","2021","All Destinations","Densely populated","Eastern & Midland","Number of nights spent","1691497"
-"Non-Irish Resident","2021","All Destinations","Intermediate populated","Ireland","Number of nights spent","846902"
-"Non-Irish Resident","2021","All Destinations","Intermediate populated","Northern & Western","Number of nights spent","291902"
-"Non-Irish Resident","2021","All Destinations","Intermediate populated","Southern","Number of nights spent","445723"
-"Non-Irish Resident","2021","All Destinations","Intermediate populated","Eastern & Midland","Number of nights spent","109279"
-"Non-Irish Resident","2021","All Destinations","Thinly populated","Ireland","Number of nights spent","2068254"
-"Non-Irish Resident","2021","All Destinations","Thinly populated","Northern & Western","Number of nights spent","808256"
-"Non-Irish Resident","2021","All Destinations","Thinly populated","Southern","Number of nights spent","836674"
-"Non-Irish Resident","2021","All Destinations","Thinly populated","Eastern & Midland","Number of nights spent","423323"
-"Non-Irish Resident","2021","All Destinations","All degrees of urbanisation","Ireland","Number of nights spent","5234451"
-"Non-Irish Resident","2021","All Destinations","All degrees of urbanisation","Northern & Western","Number of nights spent","1305138"
-"Non-Irish Resident","2021","All Destinations","All degrees of urbanisation","Southern","Number of nights spent","1705214"
-"Non-Irish Resident","2021","All Destinations","All degrees of urbanisation","Eastern & Midland","Number of nights spent","2224099"
-"Non-Irish Resident","2021","Costal Destination","Densely populated","Ireland","Number of nights spent",""
-"Non-Irish Resident","2021","Costal Destination","Densely populated","Northern & Western","Number of nights spent",""
-"Non-Irish Resident","2021","Costal Destination","Densely populated","Southern","Number of nights spent",""
-"Non-Irish Resident","2021","Costal Destination","Densely populated","Eastern & Midland","Number of nights spent",""
-"Non-Irish Resident","2021","Costal Destination","Intermediate populated","Ireland","Number of nights spent",""
-"Non-Irish Resident","2021","Costal Destination","Intermediate populated","Northern & Western","Number of nights spent",""
-"Non-Irish Resident","2021","Costal Destination","Intermediate populated","Southern","Number of nights spent",""
-"Non-Irish Resident","2021","Costal Destination","Intermediate populated","Eastern & Midland","Number of nights spent",""
-"Non-Irish Resident","2021","Costal Destination","Thinly populated","Ireland","Number of nights spent",""
-"Non-Irish Resident","2021","Costal Destination","Thinly populated","Northern & Western","Number of nights spent",""
-"Non-Irish Resident","2021","Costal Destination","Thinly populated","Southern","Number of nights spent",""
-"Non-Irish Resident","2021","Costal Destination","Thinly populated","Eastern & Midland","Number of nights spent",""
-"Non-Irish Resident","2021","Costal Destination","All degrees of urbanisation","Ireland","Number of nights spent","3886764"
-"Non-Irish Resident","2021","Costal Destination","All degrees of urbanisation","Northern & Western","Number of nights spent","1073763"
-"Non-Irish Resident","2021","Costal Destination","All degrees of urbanisation","Southern","Number of nights spent","789988"
-"Non-Irish Resident","2021","Costal Destination","All degrees of urbanisation","Eastern & Midland","Number of nights spent","2023012"
-"Non-Irish Resident","2021","Non-Costal Destination","Densely populated","Ireland","Number of nights spent",""
-"Non-Irish Resident","2021","Non-Costal Destination","Densely populated","Northern & Western","Number of nights spent",""
-"Non-Irish Resident","2021","Non-Costal Destination","Densely populated","Southern","Number of nights spent",""
-"Non-Irish Resident","2021","Non-Costal Destination","Densely populated","Eastern & Midland","Number of nights spent",""
-"Non-Irish Resident","2021","Non-Costal Destination","Intermediate populated","Ireland","Number of nights spent",""
-"Non-Irish Resident","2021","Non-Costal Destination","Intermediate populated","Northern & Western","Number of nights spent",""
-"Non-Irish Resident","2021","Non-Costal Destination","Intermediate populated","Southern","Number of nights spent",""
-"Non-Irish Resident","2021","Non-Costal Destination","Intermediate populated","Eastern & Midland","Number of nights spent",""
-"Non-Irish Resident","2021","Non-Costal Destination","Thinly populated","Ireland","Number of nights spent",""
-"Non-Irish Resident","2021","Non-Costal Destination","Thinly populated","Northern & Western","Number of nights spent",""
-"Non-Irish Resident","2021","Non-Costal Destination","Thinly populated","Southern","Number of nights spent",""
-"Non-Irish Resident","2021","Non-Costal Destination","Thinly populated","Eastern & Midland","Number of nights spent",""
-"Non-Irish Resident","2021","Non-Costal Destination","All degrees of urbanisation","Ireland","Number of nights spent","1347687"
-"Non-Irish Resident","2021","Non-Costal Destination","All degrees of urbanisation","Northern & Western","Number of nights spent","231375"
-"Non-Irish Resident","2021","Non-Costal Destination","All degrees of urbanisation","Southern","Number of nights spent","915226"
-"Non-Irish Resident","2021","Non-Costal Destination","All degrees of urbanisation","Eastern & Midland","Number of nights spent","201087"
-"Non-Irish Resident","2022","All Destinations","Densely populated","Ireland","Number of nights spent","5880624"
-"Non-Irish Resident","2022","All Destinations","Densely populated","Northern & Western","Number of nights spent","786432"
-"Non-Irish Resident","2022","All Destinations","Densely populated","Southern","Number of nights spent","1385156"
-"Non-Irish Resident","2022","All Destinations","Densely populated","Eastern & Midland","Number of nights spent","3709036"
-"Non-Irish Resident","2022","All Destinations","Intermediate populated","Ireland","Number of nights spent","1644199"
-"Non-Irish Resident","2022","All Destinations","Intermediate populated","Northern & Western","Number of nights spent","0"
-"Non-Irish Resident","2022","All Destinations","Intermediate populated","Southern","Number of nights spent","213560"
-"Non-Irish Resident","2022","All Destinations","Intermediate populated","Eastern & Midland","Number of nights spent","1430639"
-"Non-Irish Resident","2022","All Destinations","Thinly populated","Ireland","Number of nights spent","8950005"
-"Non-Irish Resident","2022","All Destinations","Thinly populated","Northern & Western","Number of nights spent","2740505"
-"Non-Irish Resident","2022","All Destinations","Thinly populated","Southern","Number of nights spent","4751659"
-"Non-Irish Resident","2022","All Destinations","Thinly populated","Eastern & Midland","Number of nights spent","1457841"
-"Non-Irish Resident","2022","All Destinations","All degrees of urbanisation","Ireland","Number of nights spent","16474828"
-"Non-Irish Resident","2022","All Destinations","All degrees of urbanisation","Northern & Western","Number of nights spent","3526937"
-"Non-Irish Resident","2022","All Destinations","All degrees of urbanisation","Southern","Number of nights spent","6350375"
-"Non-Irish Resident","2022","All Destinations","All degrees of urbanisation","Eastern & Midland","Number of nights spent","6597516"
-"Non-Irish Resident","2022","Costal Destination","Densely populated","Ireland","Number of nights spent",""
-"Non-Irish Resident","2022","Costal Destination","Densely populated","Northern & Western","Number of nights spent",""
-"Non-Irish Resident","2022","Costal Destination","Densely populated","Southern","Number of nights spent",""
-"Non-Irish Resident","2022","Costal Destination","Densely populated","Eastern & Midland","Number of nights spent",""
-"Non-Irish Resident","2022","Costal Destination","Intermediate populated","Ireland","Number of nights spent",""
-"Non-Irish Resident","2022","Costal Destination","Intermediate populated","Northern & Western","Number of nights spent",""
-"Non-Irish Resident","2022","Costal Destination","Intermediate populated","Southern","Number of nights spent",""
-"Non-Irish Resident","2022","Costal Destination","Intermediate populated","Eastern & Midland","Number of nights spent",""
-"Non-Irish Resident","2022","Costal Destination","Thinly populated","Ireland","Number of nights spent",""
-"Non-Irish Resident","2022","Costal Destination","Thinly populated","Northern & Western","Number of nights spent",""
-"Non-Irish Resident","2022","Costal Destination","Thinly populated","Southern","Number of nights spent",""
-"Non-Irish Resident","2022","Costal Destination","Thinly populated","Eastern & Midland","Number of nights spent",""
-"Non-Irish Resident","2022","Costal Destination","All degrees of urbanisation","Ireland","Number of nights spent","12751150"
-"Non-Irish Resident","2022","Costal Destination","All degrees of urbanisation","Northern & Western","Number of nights spent","2849376"
-"Non-Irish Resident","2022","Costal Destination","All degrees of urbanisation","Southern","Number of nights spent","4849579"
-"Non-Irish Resident","2022","Costal Destination","All degrees of urbanisation","Eastern & Midland","Number of nights spent","5052195"
-"Non-Irish Resident","2022","Non-Costal Destination","Densely populated","Ireland","Number of nights spent",""
-"Non-Irish Resident","2022","Non-Costal Destination","Densely populated","Northern & Western","Number of nights spent",""
-"Non-Irish Resident","2022","Non-Costal Destination","Densely populated","Southern","Number of nights spent",""
-"Non-Irish Resident","2022","Non-Costal Destination","Densely populated","Eastern & Midland","Number of nights spent",""
-"Non-Irish Resident","2022","Non-Costal Destination","Intermediate populated","Ireland","Number of nights spent",""
-"Non-Irish Resident","2022","Non-Costal Destination","Intermediate populated","Northern & Western","Number of nights spent",""
-"Non-Irish Resident","2022","Non-Costal Destination","Intermediate populated","Southern","Number of nights spent",""
-"Non-Irish Resident","2022","Non-Costal Destination","Intermediate populated","Eastern & Midland","Number of nights spent",""
-"Non-Irish Resident","2022","Non-Costal Destination","Thinly populated","Ireland","Number of nights spent",""
-"Non-Irish Resident","2022","Non-Costal Destination","Thinly populated","Northern & Western","Number of nights spent",""
-"Non-Irish Resident","2022","Non-Costal Destination","Thinly populated","Southern","Number of nights spent",""
-"Non-Irish Resident","2022","Non-Costal Destination","Thinly populated","Eastern & Midland","Number of nights spent",""
-"Non-Irish Resident","2022","Non-Costal Destination","All degrees of urbanisation","Ireland","Number of nights spent","3723678"
-"Non-Irish Resident","2022","Non-Costal Destination","All degrees of urbanisation","Northern & Western","Number of nights spent","677561"
-"Non-Irish Resident","2022","Non-Costal Destination","All degrees of urbanisation","Southern","Number of nights spent","1500795"
-"Non-Irish Resident","2022","Non-Costal Destination","All degrees of urbanisation","Eastern & Midland","Number of nights spent","1545322"
+Statistic Label,Year,Destination,Degree of Urbanisation,NUTS 2 Region,UNIT,VALUE
+Irish Resident,2017,All Destinations,Densely populated,Ireland,Number of nights spent,6441013
+Irish Resident,2017,All Destinations,Densely populated,Northern & Western,Number of nights spent,1223614
+Irish Resident,2017,All Destinations,Densely populated,Southern,Number of nights spent,870383
+Irish Resident,2017,All Destinations,Densely populated,Eastern & Midland,Number of nights spent,4347016
+Irish Resident,2017,All Destinations,Intermediate populated,Ireland,Number of nights spent,4996974
+Irish Resident,2017,All Destinations,Intermediate populated,Northern & Western,Number of nights spent,1801503
+Irish Resident,2017,All Destinations,Intermediate populated,Southern,Number of nights spent,2151402
+Irish Resident,2017,All Destinations,Intermediate populated,Eastern & Midland,Number of nights spent,1044069
+Irish Resident,2017,All Destinations,Thinly populated,Ireland,Number of nights spent,3296859
+Irish Resident,2017,All Destinations,Thinly populated,Northern & Western,Number of nights spent,1294290
+Irish Resident,2017,All Destinations,Thinly populated,Southern,Number of nights spent,1805358
+Irish Resident,2017,All Destinations,Thinly populated,Eastern & Midland,Number of nights spent,197211
+Irish Resident,2017,All Destinations,All degrees of urbanisation,Ireland,Number of nights spent,14734846
+Irish Resident,2017,All Destinations,All degrees of urbanisation,Northern & Western,Number of nights spent,4319407
+Irish Resident,2017,All Destinations,All degrees of urbanisation,Southern,Number of nights spent,4827143
+Irish Resident,2017,All Destinations,All degrees of urbanisation,Eastern & Midland,Number of nights spent,5588296
+Irish Resident,2017,Costal Destination,All degrees of urbanisation,Ireland,Number of nights spent,9615620
+Irish Resident,2017,Costal Destination,All degrees of urbanisation,Northern & Western,Number of nights spent,3347467
+Irish Resident,2017,Costal Destination,All degrees of urbanisation,Southern,Number of nights spent,2514005
+Irish Resident,2017,Costal Destination,All degrees of urbanisation,Eastern & Midland,Number of nights spent,3754148
+Irish Resident,2017,Non-Costal Destination,All degrees of urbanisation,Ireland,Number of nights spent,5119226
+Irish Resident,2017,Non-Costal Destination,All degrees of urbanisation,Northern & Western,Number of nights spent,971940
+Irish Resident,2017,Non-Costal Destination,All degrees of urbanisation,Southern,Number of nights spent,2313138
+Irish Resident,2017,Non-Costal Destination,All degrees of urbanisation,Eastern & Midland,Number of nights spent,1834148
+Irish Resident,2018,All Destinations,Densely populated,Ireland,Number of nights spent,7067025
+Irish Resident,2018,All Destinations,Densely populated,Northern & Western,Number of nights spent,1143745
+Irish Resident,2018,All Destinations,Densely populated,Southern,Number of nights spent,659267
+Irish Resident,2018,All Destinations,Densely populated,Eastern & Midland,Number of nights spent,5264013
+Irish Resident,2018,All Destinations,Intermediate populated,Ireland,Number of nights spent,5540861
+Irish Resident,2018,All Destinations,Intermediate populated,Northern & Western,Number of nights spent,1538423
+Irish Resident,2018,All Destinations,Intermediate populated,Southern,Number of nights spent,2878474
+Irish Resident,2018,All Destinations,Intermediate populated,Eastern & Midland,Number of nights spent,1123964
+Irish Resident,2018,All Destinations,Thinly populated,Ireland,Number of nights spent,5649952
+Irish Resident,2018,All Destinations,Thinly populated,Northern & Western,Number of nights spent,2182140
+Irish Resident,2018,All Destinations,Thinly populated,Southern,Number of nights spent,2460957
+Irish Resident,2018,All Destinations,Thinly populated,Eastern & Midland,Number of nights spent,1006855
+Irish Resident,2018,All Destinations,All degrees of urbanisation,Ireland,Number of nights spent,18257838
+Irish Resident,2018,All Destinations,All degrees of urbanisation,Northern & Western,Number of nights spent,4864308
+Irish Resident,2018,All Destinations,All degrees of urbanisation,Southern,Number of nights spent,5998698
+Irish Resident,2018,All Destinations,All degrees of urbanisation,Eastern & Midland,Number of nights spent,7394832
+Irish Resident,2018,Costal Destination,All degrees of urbanisation,Ireland,Number of nights spent,9827911
+Irish Resident,2018,Costal Destination,All degrees of urbanisation,Northern & Western,Number of nights spent,3391395
+Irish Resident,2018,Costal Destination,All degrees of urbanisation,Southern,Number of nights spent,2641962
+Irish Resident,2018,Costal Destination,All degrees of urbanisation,Eastern & Midland,Number of nights spent,3794554
+Irish Resident,2018,Non-Costal Destination,All degrees of urbanisation,Ireland,Number of nights spent,8429927
+Irish Resident,2018,Non-Costal Destination,All degrees of urbanisation,Northern & Western,Number of nights spent,1472913
+Irish Resident,2018,Non-Costal Destination,All degrees of urbanisation,Southern,Number of nights spent,3356736
+Irish Resident,2018,Non-Costal Destination,All degrees of urbanisation,Eastern & Midland,Number of nights spent,3600278
+Irish Resident,2019,All Destinations,Densely populated,Ireland,Number of nights spent,5620022
+Irish Resident,2019,All Destinations,Densely populated,Northern & Western,Number of nights spent,940674
+Irish Resident,2019,All Destinations,Densely populated,Southern,Number of nights spent,577350
+Irish Resident,2019,All Destinations,Densely populated,Eastern & Midland,Number of nights spent,4101998
+Irish Resident,2019,All Destinations,Intermediate populated,Ireland,Number of nights spent,5933729
+Irish Resident,2019,All Destinations,Intermediate populated,Northern & Western,Number of nights spent,1297001
+Irish Resident,2019,All Destinations,Intermediate populated,Southern,Number of nights spent,3325929
+Irish Resident,2019,All Destinations,Intermediate populated,Eastern & Midland,Number of nights spent,1310799
+Irish Resident,2019,All Destinations,Thinly populated,Ireland,Number of nights spent,4741784
+Irish Resident,2019,All Destinations,Thinly populated,Northern & Western,Number of nights spent,1857161
+Irish Resident,2019,All Destinations,Thinly populated,Southern,Number of nights spent,2054697
+Irish Resident,2019,All Destinations,Thinly populated,Eastern & Midland,Number of nights spent,829926
+Irish Resident,2019,All Destinations,All degrees of urbanisation,Ireland,Number of nights spent,16295535
+Irish Resident,2019,All Destinations,All degrees of urbanisation,Northern & Western,Number of nights spent,4094836
+Irish Resident,2019,All Destinations,All degrees of urbanisation,Southern,Number of nights spent,5957976
+Irish Resident,2019,All Destinations,All degrees of urbanisation,Eastern & Midland,Number of nights spent,6242723
+Irish Resident,2019,Costal Destination,All degrees of urbanisation,Ireland,Number of nights spent,7891353
+Irish Resident,2019,Costal Destination,All degrees of urbanisation,Northern & Western,Number of nights spent,2926209
+Irish Resident,2019,Costal Destination,All degrees of urbanisation,Southern,Number of nights spent,2460715
+Irish Resident,2019,Costal Destination,All degrees of urbanisation,Eastern & Midland,Number of nights spent,2504429
+Irish Resident,2019,Non-Costal Destination,All degrees of urbanisation,Ireland,Number of nights spent,8404182
+Irish Resident,2019,Non-Costal Destination,All degrees of urbanisation,Northern & Western,Number of nights spent,1168627
+Irish Resident,2019,Non-Costal Destination,All degrees of urbanisation,Southern,Number of nights spent,3497261
+Irish Resident,2019,Non-Costal Destination,All degrees of urbanisation,Eastern & Midland,Number of nights spent,3738294
+Irish Resident,2020,All Destinations,Densely populated,Ireland,Number of nights spent,2942251
+Irish Resident,2020,All Destinations,Densely populated,Northern & Western,Number of nights spent,895281
+Irish Resident,2020,All Destinations,Densely populated,Southern,Number of nights spent,1567564
+Irish Resident,2020,All Destinations,Densely populated,Eastern & Midland,Number of nights spent,479407
+Irish Resident,2020,All Destinations,Intermediate populated,Ireland,Number of nights spent,3444907
+Irish Resident,2020,All Destinations,Intermediate populated,Northern & Western,Number of nights spent,1048231
+Irish Resident,2020,All Destinations,Intermediate populated,Southern,Number of nights spent,1835367
+Irish Resident,2020,All Destinations,Intermediate populated,Eastern & Midland,Number of nights spent,561309
+Irish Resident,2020,All Destinations,Thinly populated,Ireland,Number of nights spent,5236842
+Irish Resident,2020,All Destinations,Thinly populated,Northern & Western,Number of nights spent,1593488
+Irish Resident,2020,All Destinations,Thinly populated,Southern,Number of nights spent,2790069
+Irish Resident,2020,All Destinations,Thinly populated,Eastern & Midland,Number of nights spent,853284
+Irish Resident,2020,All Destinations,All degrees of urbanisation,Ireland,Number of nights spent,11624000
+Irish Resident,2020,All Destinations,All degrees of urbanisation,Northern & Western,Number of nights spent,3537000
+Irish Resident,2020,All Destinations,All degrees of urbanisation,Southern,Number of nights spent,6193000
+Irish Resident,2020,All Destinations,All degrees of urbanisation,Eastern & Midland,Number of nights spent,1894000
+Irish Resident,2020,Costal Destination,All degrees of urbanisation,Ireland,Number of nights spent,6408740
+Irish Resident,2020,Costal Destination,All degrees of urbanisation,Northern & Western,Number of nights spent,1950079
+Irish Resident,2020,Costal Destination,All degrees of urbanisation,Southern,Number of nights spent,3414429
+Irish Resident,2020,Costal Destination,All degrees of urbanisation,Eastern & Midland,Number of nights spent,1044232
+Irish Resident,2020,Non-Costal Destination,All degrees of urbanisation,Ireland,Number of nights spent,5215260
+Irish Resident,2020,Non-Costal Destination,All degrees of urbanisation,Northern & Western,Number of nights spent,1586921
+Irish Resident,2020,Non-Costal Destination,All degrees of urbanisation,Southern,Number of nights spent,2778571
+Irish Resident,2020,Non-Costal Destination,All degrees of urbanisation,Eastern & Midland,Number of nights spent,849768
+Irish Resident,2021,All Destinations,Densely populated,Ireland,Number of nights spent,2312137
+Irish Resident,2021,All Destinations,Densely populated,Northern & Western,Number of nights spent,677450
+Irish Resident,2021,All Destinations,Densely populated,Southern,Number of nights spent,484132
+Irish Resident,2021,All Destinations,Densely populated,Eastern & Midland,Number of nights spent,1150555
+Irish Resident,2021,All Destinations,Intermediate populated,Ireland,Number of nights spent,4090654
+Irish Resident,2021,All Destinations,Intermediate populated,Northern & Western,Number of nights spent,934068
+Irish Resident,2021,All Destinations,Intermediate populated,Southern,Number of nights spent,2788924
+Irish Resident,2021,All Destinations,Intermediate populated,Eastern & Midland,Number of nights spent,367662
+Irish Resident,2021,All Destinations,Thinly populated,Ireland,Number of nights spent,3293209
+Irish Resident,2021,All Destinations,Thinly populated,Northern & Western,Number of nights spent,1337482
+Irish Resident,2021,All Destinations,Thinly populated,Southern,Number of nights spent,1722944
+Irish Resident,2021,All Destinations,Thinly populated,Eastern & Midland,Number of nights spent,232783
+Irish Resident,2021,All Destinations,All degrees of urbanisation,Ireland,Number of nights spent,9696000
+Irish Resident,2021,All Destinations,All degrees of urbanisation,Northern & Western,Number of nights spent,2949000
+Irish Resident,2021,All Destinations,All degrees of urbanisation,Southern,Number of nights spent,4996000
+Irish Resident,2021,All Destinations,All degrees of urbanisation,Eastern & Midland,Number of nights spent,1751000
+Irish Resident,2021,Costal Destination,All degrees of urbanisation,Ireland,Number of nights spent,4873250
+Irish Resident,2021,Costal Destination,All degrees of urbanisation,Northern & Western,Number of nights spent,2107383
+Irish Resident,2021,Costal Destination,All degrees of urbanisation,Southern,Number of nights spent,2063408
+Irish Resident,2021,Costal Destination,All degrees of urbanisation,Eastern & Midland,Number of nights spent,702459
+Irish Resident,2021,Non-Costal Destination,All degrees of urbanisation,Ireland,Number of nights spent,4822750
+Irish Resident,2021,Non-Costal Destination,All degrees of urbanisation,Northern & Western,Number of nights spent,841617
+Irish Resident,2021,Non-Costal Destination,All degrees of urbanisation,Southern,Number of nights spent,2932592
+Irish Resident,2021,Non-Costal Destination,All degrees of urbanisation,Eastern & Midland,Number of nights spent,1048541
+Irish Resident,2022,All Destinations,Densely populated,Ireland,Number of nights spent,4149806
+Irish Resident,2022,All Destinations,Densely populated,Northern & Western,Number of nights spent,1071827
+Irish Resident,2022,All Destinations,Densely populated,Southern,Number of nights spent,1822885
+Irish Resident,2022,All Destinations,Densely populated,Eastern & Midland,Number of nights spent,1255094
+Irish Resident,2022,All Destinations,Intermediate populated,Ireland,Number of nights spent,1797186
+Irish Resident,2022,All Destinations,Intermediate populated,Northern & Western,Number of nights spent,0
+Irish Resident,2022,All Destinations,Intermediate populated,Southern,Number of nights spent,331405
+Irish Resident,2022,All Destinations,Intermediate populated,Eastern & Midland,Number of nights spent,1465781
+Irish Resident,2022,All Destinations,Thinly populated,Ireland,Number of nights spent,12509008
+Irish Resident,2022,All Destinations,Thinly populated,Northern & Western,Number of nights spent,4224173
+Irish Resident,2022,All Destinations,Thinly populated,Southern,Number of nights spent,6905710
+Irish Resident,2022,All Destinations,Thinly populated,Eastern & Midland,Number of nights spent,1379125
+Irish Resident,2022,All Destinations,All degrees of urbanisation,Ireland,Number of nights spent,18456000
+Irish Resident,2022,All Destinations,All degrees of urbanisation,Northern & Western,Number of nights spent,5296000
+Irish Resident,2022,All Destinations,All degrees of urbanisation,Southern,Number of nights spent,9060000
+Irish Resident,2022,All Destinations,All degrees of urbanisation,Eastern & Midland,Number of nights spent,4100000
+Irish Resident,2022,Costal Destination,All degrees of urbanisation,Ireland,Number of nights spent,13734245
+Irish Resident,2022,Costal Destination,All degrees of urbanisation,Northern & Western,Number of nights spent,4329671
+Irish Resident,2022,Costal Destination,All degrees of urbanisation,Southern,Number of nights spent,6914142
+Irish Resident,2022,Costal Destination,All degrees of urbanisation,Eastern & Midland,Number of nights spent,2490433
+Irish Resident,2022,Non-Costal Destination,All degrees of urbanisation,Ireland,Number of nights spent,4721755
+Irish Resident,2022,Non-Costal Destination,All degrees of urbanisation,Northern & Western,Number of nights spent,966329
+Irish Resident,2022,Non-Costal Destination,All degrees of urbanisation,Southern,Number of nights spent,2145858
+Irish Resident,2022,Non-Costal Destination,All degrees of urbanisation,Eastern & Midland,Number of nights spent,1609567
+Non-Irish Resident,2017,All Destinations,Densely populated,Ireland,Number of nights spent,9262593
+Non-Irish Resident,2017,All Destinations,Densely populated,Northern & Western,Number of nights spent,802137
+Non-Irish Resident,2017,All Destinations,Densely populated,Southern,Number of nights spent,584136
+Non-Irish Resident,2017,All Destinations,Densely populated,Eastern & Midland,Number of nights spent,7876320
+Non-Irish Resident,2017,All Destinations,Intermediate populated,Ireland,Number of nights spent,3334401
+Non-Irish Resident,2017,All Destinations,Intermediate populated,Northern & Western,Number of nights spent,634767
+Non-Irish Resident,2017,All Destinations,Intermediate populated,Southern,Number of nights spent,1982884
+Non-Irish Resident,2017,All Destinations,Intermediate populated,Eastern & Midland,Number of nights spent,716750
+Non-Irish Resident,2017,All Destinations,Thinly populated,Ireland,Number of nights spent,3797139
+Non-Irish Resident,2017,All Destinations,Thinly populated,Northern & Western,Number of nights spent,1680333
+Non-Irish Resident,2017,All Destinations,Thinly populated,Southern,Number of nights spent,1966405
+Non-Irish Resident,2017,All Destinations,Thinly populated,Eastern & Midland,Number of nights spent,150401
+Non-Irish Resident,2017,All Destinations,All degrees of urbanisation,Ireland,Number of nights spent,16394133
+Non-Irish Resident,2017,All Destinations,All degrees of urbanisation,Northern & Western,Number of nights spent,3117237
+Non-Irish Resident,2017,All Destinations,All degrees of urbanisation,Southern,Number of nights spent,4533425
+Non-Irish Resident,2017,All Destinations,All degrees of urbanisation,Eastern & Midland,Number of nights spent,8743471
+Non-Irish Resident,2017,Costal Destination,All degrees of urbanisation,Ireland,Number of nights spent,11374258
+Non-Irish Resident,2017,Costal Destination,All degrees of urbanisation,Northern & Western,Number of nights spent,2722403
+Non-Irish Resident,2017,Costal Destination,All degrees of urbanisation,Southern,Number of nights spent,2024917
+Non-Irish Resident,2017,Costal Destination,All degrees of urbanisation,Eastern & Midland,Number of nights spent,6626938
+Non-Irish Resident,2017,Non-Costal Destination,All degrees of urbanisation,Ireland,Number of nights spent,5019875
+Non-Irish Resident,2017,Non-Costal Destination,All degrees of urbanisation,Northern & Western,Number of nights spent,394834
+Non-Irish Resident,2017,Non-Costal Destination,All degrees of urbanisation,Southern,Number of nights spent,2508508
+Non-Irish Resident,2017,Non-Costal Destination,All degrees of urbanisation,Eastern & Midland,Number of nights spent,2116533
+Non-Irish Resident,2018,All Destinations,Densely populated,Ireland,Number of nights spent,9491637
+Non-Irish Resident,2018,All Destinations,Densely populated,Northern & Western,Number of nights spent,924820
+Non-Irish Resident,2018,All Destinations,Densely populated,Southern,Number of nights spent,784235
+Non-Irish Resident,2018,All Destinations,Densely populated,Eastern & Midland,Number of nights spent,7782582
+Non-Irish Resident,2018,All Destinations,Intermediate populated,Ireland,Number of nights spent,3280654
+Non-Irish Resident,2018,All Destinations,Intermediate populated,Northern & Western,Number of nights spent,937621
+Non-Irish Resident,2018,All Destinations,Intermediate populated,Southern,Number of nights spent,1630490
+Non-Irish Resident,2018,All Destinations,Intermediate populated,Eastern & Midland,Number of nights spent,712543
+Non-Irish Resident,2018,All Destinations,Thinly populated,Ireland,Number of nights spent,4041216
+Non-Irish Resident,2018,All Destinations,Thinly populated,Northern & Western,Number of nights spent,1926015
+Non-Irish Resident,2018,All Destinations,Thinly populated,Southern,Number of nights spent,1690084
+Non-Irish Resident,2018,All Destinations,Thinly populated,Eastern & Midland,Number of nights spent,425117
+Non-Irish Resident,2018,All Destinations,All degrees of urbanisation,Ireland,Number of nights spent,16813507
+Non-Irish Resident,2018,All Destinations,All degrees of urbanisation,Northern & Western,Number of nights spent,3788456
+Non-Irish Resident,2018,All Destinations,All degrees of urbanisation,Southern,Number of nights spent,4104809
+Non-Irish Resident,2018,All Destinations,All degrees of urbanisation,Eastern & Midland,Number of nights spent,8920242
+Non-Irish Resident,2018,Costal Destination,All degrees of urbanisation,Ireland,Number of nights spent,12102109
+Non-Irish Resident,2018,Costal Destination,All degrees of urbanisation,Northern & Western,Number of nights spent,2740098
+Non-Irish Resident,2018,Costal Destination,All degrees of urbanisation,Southern,Number of nights spent,1936115
+Non-Irish Resident,2018,Costal Destination,All degrees of urbanisation,Eastern & Midland,Number of nights spent,7425896
+Non-Irish Resident,2018,Non-Costal Destination,All degrees of urbanisation,Ireland,Number of nights spent,4711398
+Non-Irish Resident,2018,Non-Costal Destination,All degrees of urbanisation,Northern & Western,Number of nights spent,1048358
+Non-Irish Resident,2018,Non-Costal Destination,All degrees of urbanisation,Southern,Number of nights spent,2168694
+Non-Irish Resident,2018,Non-Costal Destination,All degrees of urbanisation,Eastern & Midland,Number of nights spent,1494346
+Non-Irish Resident,2019,All Destinations,Densely populated,Ireland,Number of nights spent,10171295
+Non-Irish Resident,2019,All Destinations,Densely populated,Northern & Western,Number of nights spent,734934
+Non-Irish Resident,2019,All Destinations,Densely populated,Southern,Number of nights spent,877936
+Non-Irish Resident,2019,All Destinations,Densely populated,Eastern & Midland,Number of nights spent,8558425
+Non-Irish Resident,2019,All Destinations,Intermediate populated,Ireland,Number of nights spent,2277314
+Non-Irish Resident,2019,All Destinations,Intermediate populated,Northern & Western,Number of nights spent,943924
+Non-Irish Resident,2019,All Destinations,Intermediate populated,Southern,Number of nights spent,834715
+Non-Irish Resident,2019,All Destinations,Intermediate populated,Eastern & Midland,Number of nights spent,498675
+Non-Irish Resident,2019,All Destinations,Thinly populated,Ireland,Number of nights spent,3836650
+Non-Irish Resident,2019,All Destinations,Thinly populated,Northern & Western,Number of nights spent,2234489
+Non-Irish Resident,2019,All Destinations,Thinly populated,Southern,Number of nights spent,1248382
+Non-Irish Resident,2019,All Destinations,Thinly populated,Eastern & Midland,Number of nights spent,353779
+Non-Irish Resident,2019,All Destinations,All degrees of urbanisation,Ireland,Number of nights spent,16285259
+Non-Irish Resident,2019,All Destinations,All degrees of urbanisation,Northern & Western,Number of nights spent,3913347
+Non-Irish Resident,2019,All Destinations,All degrees of urbanisation,Southern,Number of nights spent,2961033
+Non-Irish Resident,2019,All Destinations,All degrees of urbanisation,Eastern & Midland,Number of nights spent,9410879
+Non-Irish Resident,2019,Costal Destination,All degrees of urbanisation,Ireland,Number of nights spent,12242193
+Non-Irish Resident,2019,Costal Destination,All degrees of urbanisation,Northern & Western,Number of nights spent,2997003
+Non-Irish Resident,2019,Costal Destination,All degrees of urbanisation,Southern,Number of nights spent,1276947
+Non-Irish Resident,2019,Costal Destination,All degrees of urbanisation,Eastern & Midland,Number of nights spent,7968243
+Non-Irish Resident,2019,Non-Costal Destination,All degrees of urbanisation,Ireland,Number of nights spent,4043066
+Non-Irish Resident,2019,Non-Costal Destination,All degrees of urbanisation,Northern & Western,Number of nights spent,916344
+Non-Irish Resident,2019,Non-Costal Destination,All degrees of urbanisation,Southern,Number of nights spent,1684086
+Non-Irish Resident,2019,Non-Costal Destination,All degrees of urbanisation,Eastern & Midland,Number of nights spent,1442636
+Non-Irish Resident,2020,All Destinations,Densely populated,Ireland,Number of nights spent,1842944
+Non-Irish Resident,2020,All Destinations,Densely populated,Northern & Western,Number of nights spent,560779
+Non-Irish Resident,2020,All Destinations,Densely populated,Southern,Number of nights spent,981878
+Non-Irish Resident,2020,All Destinations,Densely populated,Eastern & Midland,Number of nights spent,300287
+Non-Irish Resident,2020,All Destinations,Intermediate populated,Ireland,Number of nights spent,516112
+Non-Irish Resident,2020,All Destinations,Intermediate populated,Northern & Western,Number of nights spent,157045
+Non-Irish Resident,2020,All Destinations,Intermediate populated,Southern,Number of nights spent,274973
+Non-Irish Resident,2020,All Destinations,Intermediate populated,Eastern & Midland,Number of nights spent,84095
+Non-Irish Resident,2020,All Destinations,Thinly populated,Ireland,Number of nights spent,2157198
+Non-Irish Resident,2020,All Destinations,Thinly populated,Northern & Western,Number of nights spent,656401
+Non-Irish Resident,2020,All Destinations,Thinly populated,Southern,Number of nights spent,1149305
+Non-Irish Resident,2020,All Destinations,Thinly populated,Eastern & Midland,Number of nights spent,351491
+Non-Irish Resident,2020,All Destinations,All degrees of urbanisation,Ireland,Number of nights spent,4516254
+Non-Irish Resident,2020,All Destinations,All degrees of urbanisation,Northern & Western,Number of nights spent,1374225
+Non-Irish Resident,2020,All Destinations,All degrees of urbanisation,Southern,Number of nights spent,2406156
+Non-Irish Resident,2020,All Destinations,All degrees of urbanisation,Eastern & Midland,Number of nights spent,735873
+Non-Irish Resident,2020,Costal Destination,All degrees of urbanisation,Ireland,Number of nights spent,3352755
+Non-Irish Resident,2020,Costal Destination,All degrees of urbanisation,Northern & Western,Number of nights spent,1020191
+Non-Irish Resident,2020,Costal Destination,All degrees of urbanisation,Southern,Number of nights spent,1786271
+Non-Irish Resident,2020,Costal Destination,All degrees of urbanisation,Eastern & Midland,Number of nights spent,546294
+Non-Irish Resident,2020,Non-Costal Destination,All degrees of urbanisation,Ireland,Number of nights spent,1163499
+Non-Irish Resident,2020,Non-Costal Destination,All degrees of urbanisation,Northern & Western,Number of nights spent,354034
+Non-Irish Resident,2020,Non-Costal Destination,All degrees of urbanisation,Southern,Number of nights spent,619885
+Non-Irish Resident,2020,Non-Costal Destination,All degrees of urbanisation,Eastern & Midland,Number of nights spent,189579
+Non-Irish Resident,2021,All Destinations,Densely populated,Ireland,Number of nights spent,2319295
+Non-Irish Resident,2021,All Destinations,Densely populated,Northern & Western,Number of nights spent,204980
+Non-Irish Resident,2021,All Destinations,Densely populated,Southern,Number of nights spent,422817
+Non-Irish Resident,2021,All Destinations,Densely populated,Eastern & Midland,Number of nights spent,1691497
+Non-Irish Resident,2021,All Destinations,Intermediate populated,Ireland,Number of nights spent,846902
+Non-Irish Resident,2021,All Destinations,Intermediate populated,Northern & Western,Number of nights spent,291902
+Non-Irish Resident,2021,All Destinations,Intermediate populated,Southern,Number of nights spent,445723
+Non-Irish Resident,2021,All Destinations,Intermediate populated,Eastern & Midland,Number of nights spent,109279
+Non-Irish Resident,2021,All Destinations,Thinly populated,Ireland,Number of nights spent,2068254
+Non-Irish Resident,2021,All Destinations,Thinly populated,Northern & Western,Number of nights spent,808256
+Non-Irish Resident,2021,All Destinations,Thinly populated,Southern,Number of nights spent,836674
+Non-Irish Resident,2021,All Destinations,Thinly populated,Eastern & Midland,Number of nights spent,423323
+Non-Irish Resident,2021,All Destinations,All degrees of urbanisation,Ireland,Number of nights spent,5234451
+Non-Irish Resident,2021,All Destinations,All degrees of urbanisation,Northern & Western,Number of nights spent,1305138
+Non-Irish Resident,2021,All Destinations,All degrees of urbanisation,Southern,Number of nights spent,1705214
+Non-Irish Resident,2021,All Destinations,All degrees of urbanisation,Eastern & Midland,Number of nights spent,2224099
+Non-Irish Resident,2021,Costal Destination,All degrees of urbanisation,Ireland,Number of nights spent,3886764
+Non-Irish Resident,2021,Costal Destination,All degrees of urbanisation,Northern & Western,Number of nights spent,1073763
+Non-Irish Resident,2021,Costal Destination,All degrees of urbanisation,Southern,Number of nights spent,789988
+Non-Irish Resident,2021,Costal Destination,All degrees of urbanisation,Eastern & Midland,Number of nights spent,2023012
+Non-Irish Resident,2021,Non-Costal Destination,All degrees of urbanisation,Ireland,Number of nights spent,1347687
+Non-Irish Resident,2021,Non-Costal Destination,All degrees of urbanisation,Northern & Western,Number of nights spent,231375
+Non-Irish Resident,2021,Non-Costal Destination,All degrees of urbanisation,Southern,Number of nights spent,915226
+Non-Irish Resident,2021,Non-Costal Destination,All degrees of urbanisation,Eastern & Midland,Number of nights spent,201087
+Non-Irish Resident,2022,All Destinations,Densely populated,Ireland,Number of nights spent,5880624
+Non-Irish Resident,2022,All Destinations,Densely populated,Northern & Western,Number of nights spent,786432
+Non-Irish Resident,2022,All Destinations,Densely populated,Southern,Number of nights spent,1385156
+Non-Irish Resident,2022,All Destinations,Densely populated,Eastern & Midland,Number of nights spent,3709036
+Non-Irish Resident,2022,All Destinations,Intermediate populated,Ireland,Number of nights spent,1644199
+Non-Irish Resident,2022,All Destinations,Intermediate populated,Northern & Western,Number of nights spent,0
+Non-Irish Resident,2022,All Destinations,Intermediate populated,Southern,Number of nights spent,213560
+Non-Irish Resident,2022,All Destinations,Intermediate populated,Eastern & Midland,Number of nights spent,1430639
+Non-Irish Resident,2022,All Destinations,Thinly populated,Ireland,Number of nights spent,8950005
+Non-Irish Resident,2022,All Destinations,Thinly populated,Northern & Western,Number of nights spent,2740505
+Non-Irish Resident,2022,All Destinations,Thinly populated,Southern,Number of nights spent,4751659
+Non-Irish Resident,2022,All Destinations,Thinly populated,Eastern & Midland,Number of nights spent,1457841
+Non-Irish Resident,2022,All Destinations,All degrees of urbanisation,Ireland,Number of nights spent,16474828
+Non-Irish Resident,2022,All Destinations,All degrees of urbanisation,Northern & Western,Number of nights spent,3526937
+Non-Irish Resident,2022,All Destinations,All degrees of urbanisation,Southern,Number of nights spent,6350375
+Non-Irish Resident,2022,All Destinations,All degrees of urbanisation,Eastern & Midland,Number of nights spent,6597516
+Non-Irish Resident,2022,Costal Destination,All degrees of urbanisation,Ireland,Number of nights spent,12751150
+Non-Irish Resident,2022,Costal Destination,All degrees of urbanisation,Northern & Western,Number of nights spent,2849376
+Non-Irish Resident,2022,Costal Destination,All degrees of urbanisation,Southern,Number of nights spent,4849579
+Non-Irish Resident,2022,Costal Destination,All degrees of urbanisation,Eastern & Midland,Number of nights spent,5052195
+Non-Irish Resident,2022,Non-Costal Destination,All degrees of urbanisation,Ireland,Number of nights spent,3723678
+Non-Irish Resident,2022,Non-Costal Destination,All degrees of urbanisation,Northern & Western,Number of nights spent,677561
+Non-Irish Resident,2022,Non-Costal Destination,All degrees of urbanisation,Southern,Number of nights spent,1500795
+Non-Irish Resident,2022,Non-Costal Destination,All degrees of urbanisation,Eastern & Midland,Number of nights spent,1545322
